@@ -1,0 +1,12 @@
+INDEX VERSION 1.134+/Users/hudiguan/Desktop/BerufsschuleWorkspace/.metadata/.plugins/org.eclipse.jdt.core
+193764111.index
+3580581836.index
+1827181659.index
+2772675874.index
+3007309192.index
+2324227474.index
+2872924378.index
+1865797976.index
+4080352641.index
+864077852.index
+2121209111.index

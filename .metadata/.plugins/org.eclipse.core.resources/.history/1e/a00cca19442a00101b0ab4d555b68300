@@ -1,0 +1,15 @@
+package fachkonzept;
+
+public class Flaeche implements Comparable<T> {
+
+	@Override
+	public int compareTo(T o) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	public Flaeche(String pName, double pBreite, double pLaenge) {
+		
+	}
+
+}

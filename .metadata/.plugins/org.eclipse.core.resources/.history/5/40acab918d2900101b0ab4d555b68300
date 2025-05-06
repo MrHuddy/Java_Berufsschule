@@ -1,0 +1,16 @@
+package benutzerschnittstelle;
+import fachkonzept.*;
+public class Konsole {
+
+	public static void main(String[] args) {
+		
+		Hund einHund = new Hund();
+		Katze eineKatze = new Katze();
+		Vogel Lora = new Vogel("Lora");
+		
+		
+		Haustier [] haustiere = {};
+
+	}
+
+}

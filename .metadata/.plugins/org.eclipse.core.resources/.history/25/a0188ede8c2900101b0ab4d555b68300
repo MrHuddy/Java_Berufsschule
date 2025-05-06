@@ -1,0 +1,16 @@
+package fachkonzept;
+
+public class Vogel extends Haustier {
+
+	public Vogel(String pName) {
+		super(pName);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public String gibLaut() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

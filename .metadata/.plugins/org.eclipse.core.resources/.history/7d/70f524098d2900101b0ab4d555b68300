@@ -1,0 +1,16 @@
+package fachkonzept;
+
+public class Katze extends Haustier {
+
+	public Katze(String pName) {
+		super(pName);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public String gibLaut() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

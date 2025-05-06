@@ -1,0 +1,11 @@
+package fachkonzept;
+
+public class WordDokument implements DruckbaresDokument {
+
+	@Override
+	public String liesInhaltAlsText() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

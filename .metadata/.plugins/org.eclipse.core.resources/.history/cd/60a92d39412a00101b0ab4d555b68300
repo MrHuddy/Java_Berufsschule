@@ -1,0 +1,5 @@
+package fachkonzept;
+
+public interface DruckbaresDokument {
+	public String liesInhaltAlsText();
+}

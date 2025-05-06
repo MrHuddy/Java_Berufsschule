@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Schaltjahr&apos; to &apos;Zeitrau &apos;" description="Rename resource &apos;Schaltjahr&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Schaltjahr" name="Zeitrau " stamp="1741615048355" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Zeitrau &apos; to &apos;Zeitraum&apos;" description="Rename resource &apos;Zeitrau &apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Zeitrau " name="Zeitraum" stamp="1741615057165" updateReferences="true"/>
+</session>

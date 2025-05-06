@@ -1,0 +1,16 @@
+package benutzer;
+
+import java.time.LocalDateTime;
+
+public class Konsole {
+
+	public static void main(String[] args) {
+		LocalDateTime test;
+		test = LocalDateTime.now();
+		while(true) {
+			System.out.println(test);
+		}
+
+	}
+
+}

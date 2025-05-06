@@ -1,0 +1,21 @@
+package fachkonzept;
+
+public class Flaeche implements Comparable<T> {
+	
+	private String name;
+	private double breite;
+	private double laenge;
+	
+	@Override
+	public int compareTo(T o) {
+		
+		return 0;
+	}
+	
+	public Flaeche(String pName, double pBreite, double pLaenge) {
+		this.name = pName;
+		this.breite = pBreite;
+		this.laenge = pLaenge;
+	}
+
+}

@@ -1,0 +1,21 @@
+package benutzerschnittstelle;
+import fachkonzept.*;
+public class Konsole {
+
+	public static void main(String[] args) {
+		
+		Hund Bello = new Hund("Bello");
+		Katze Felix = new Katze("Felix");
+		Vogel Lora = new Vogel("Lora");
+		Katze Cleo = new Katze("Cleo");
+		Hund Hasso = new Hund("Hasso");
+		
+		Haustier [] haustiere = {Bello, Felix, Lora, Cleo, Hasso};
+		
+		for (int i = 0; i<haustiere.length; i++) {
+			System.out.println(haustiere[i].liesName() + "sagt: " + haustiere[i].gibLaut());
+		}
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package fachkonzept;
+
+public class Haustier {
+	private String name;
+	
+	public Haustier(String pName) {
+		name = pName;
+	}
+}

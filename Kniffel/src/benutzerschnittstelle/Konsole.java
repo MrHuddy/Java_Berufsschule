@@ -1,0 +1,10 @@
+package benutzerschnittstelle;
+import fachkonzeptklasse.*;
+public class Konsole {
+
+	public static void main(String[] args) {
+		
+		Figur F = new Figur();
+	}
+
+}

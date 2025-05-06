@@ -1,0 +1,21 @@
+package benutzer;
+
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+
+public class Konsole {
+
+	public static void main(String[] args) {
+		LocalDateTime test;
+		LocalTime test1 = LocalTime.now();
+		LocalTime test2 = LocalTime.now();
+		LocalTime test3 = test2-test1;
+		System.out.println(test1);
+		
+		//for (int i = 0; i < 10000; i++) {
+			
+		//}
+
+	}
+
+}

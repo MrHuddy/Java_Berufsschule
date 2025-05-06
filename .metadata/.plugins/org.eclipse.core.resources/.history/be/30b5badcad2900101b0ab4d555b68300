@@ -1,0 +1,19 @@
+package fachkonzept;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+public class DruckbaresDokument {
+	private LocalDateTime zeitPunktGedruckt;
+	
+	public void gedruckt() {
+		LocalDateTime.now();
+	}
+	
+	public String liesZeitpunktGedruckt() {
+		return zeitPunktGedruckt.toString();
+	}
+	
+	public String liesInhaltAlsText();
+	
+}

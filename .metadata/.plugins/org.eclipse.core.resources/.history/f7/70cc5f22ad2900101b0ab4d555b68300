@@ -1,0 +1,7 @@
+package fachkonzept;
+
+public class @Override public String liesInhaltAlsText(){
+// TODO Auto-generated method stub
+return super.liesInhaltAlsText();}extends DruckbaresDokument{
+
+}
