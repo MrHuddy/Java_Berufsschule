@@ -1,9 +1,0 @@
-package fachkonzept;
-
-public class CSVDokument extends DruckbaresDokument {
-	@Override
-	public String liesInhaltAlsText() {
-		// TODO Auto-generated method stub
-		return super.liesInhaltAlsText();
-	}
-}

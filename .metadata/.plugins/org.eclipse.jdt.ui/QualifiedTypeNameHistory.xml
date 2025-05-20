@@ -3,11 +3,23 @@
     <fullyQualifiedTypeName name="javax.swing.event.HyperlinkListener"/>
     <fullyQualifiedTypeName name="fachkonzeptklasse.ListeS"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="fachkonzeptklasse.Wuerfel"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="fachkonzept.CSVDokument"/>
     <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="java.time.LocalTime"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Wuerfel"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Spielblatt"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Bestenliste"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Figur"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Einser"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.ViererPasch"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.FullHouse"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.KleineStraße"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.GroßeStraße"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Kniffel"/>
+    <fullyQualifiedTypeName name="fachkonzeptklasse.Chance"/>
+    <fullyQualifiedTypeName name="steuerung.Steuerung"/>
+    <fullyQualifiedTypeName name="datenspeicherung.BestenlisteSpeicher"/>
 </qualifiedTypeNameHistroy>

@@ -1,9 +1,0 @@
-package fachkonzept;
-
-import java.time.LocalDate;
-
-public class DruckbaresDokument {
-	private LocalDateTime zeitPunktGedruckt;
-	
-	
-}
