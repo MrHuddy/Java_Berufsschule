@@ -1,6 +1,6 @@
 package fachkonzept;
 
-public class DBSession {
+public class DBSession implements AutoCloseable{
 	
 	private static int anzahlSession=0;
 	private String benutzername;
@@ -19,5 +19,19 @@ public class DBSession {
 	
 	public String liesBenutzername() {
 		return benutzername;
+	}
+
+
+
+	@Override
+	public void close() throws Exception {
+		System.out.println("Hier wird geschlossen");
+		anzahlSession--;
+	}
+	
+	public void loescheSeassionCount(DBSession pDbSession) {
+		anzahlSession = 0;
+		pDbSession = null;
+		System.gc();
 	}
 }
