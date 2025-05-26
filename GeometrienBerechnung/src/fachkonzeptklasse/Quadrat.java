@@ -3,7 +3,6 @@ package fachkonzeptklasse;
 public class Quadrat extends Rechtseck{
 	public Quadrat(double pA) {
 		super(pA, 0);
-		a = pA;
 	}
 
 	@Override
