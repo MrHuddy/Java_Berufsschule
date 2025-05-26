@@ -15,7 +15,7 @@ public class Konsole {
 		System.out.println(DieSession.liesBenutzername());
 		System.out.println(DieSession2.liesAnzahlSession());
 	
-		//lol xD
+		//lol xD find ich gut
 
 	}
 
