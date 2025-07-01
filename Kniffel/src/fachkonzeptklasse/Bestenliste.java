@@ -9,4 +9,6 @@ public class Bestenliste {
 		derBestenlisteSpeicher = new BestenlisteSpeicher();
 	}
 	
+	public 
+	
 }
