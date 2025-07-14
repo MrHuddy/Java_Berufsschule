@@ -7,6 +7,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/hudiguan/Desktop/BerufsschuleWorkspace/Kniffel"/>
+			<item value="/Users/hudiguan/Downloads/Maschine"/>
+			<item value="/Users/hudiguan/Desktop/BerufsschuleWorkspace/Notizen"/>
 			<item value="/Users/hudiguan/Desktop/BerufsschuleWorkspace/Digitaluhr"/>
 			<item value="/Users/hudiguan/Desktop/BerufsschuleWorkspace/DruckerIF"/>
 			<item value="/Users/hudiguan/Desktop/BerufsschuleWorkspace/DruckerAC"/>
@@ -26,6 +29,13 @@
 	<section name="NewWizardAction">
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.jpt.jaxb"/>
+			<item value="org.eclipse.pde.PDE"/>
+			<item value="org.eclipse.wb"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp"/>
 		</list>
 		<section name="NewWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="0"/>
@@ -34,5 +44,11 @@
 			<item key="DIALOG_HEIGHT" value="500"/>
 			<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
 		</section>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="540"/>
+		<item key="DIALOG_HEIGHT" value="367"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
 	</section>
 </section>

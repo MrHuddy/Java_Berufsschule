@@ -1,0 +1,12 @@
+Arthur,345
+Test,123
+Test1,30
+hallo,52
+test123,42
+hallo15623,44
+lksnfdlksdjf,35
+zrdretkljkf,53
+arthur2,95
+kerem,105
+test7,54
+test8,54

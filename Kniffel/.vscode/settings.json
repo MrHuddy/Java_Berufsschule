@@ -1,0 +1,8 @@
+{
+  "java.format.settings.url": "C:\\Users\\arthu\\Downloads\\JavaCodeStyleFormatterProfileLorenz.xml",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\arthu\\Downloads\\jackson-core-2.15.0.jar",
+    "c:\\Users\\arthu\\Downloads\\jackson-annotations-2.15.0.jar"
+  ]
+}

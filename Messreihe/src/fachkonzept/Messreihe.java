@@ -11,6 +11,7 @@ public class Messreihe {
 		derMesswert = new Messwert[1000];
 	}
 	
+	
 	public void fuegeMesswertHinzu(double pWert) {
 		Messwert neuerMesswert = new Messwert(pWert);
 		derMesswert[i] = neuerMesswert;
